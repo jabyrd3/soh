@@ -1,0 +1,12 @@
+{
+  "name": "son-of-howitzer",
+  "version": "1.0.0",
+  "description": "howitzer hits old endpoints, surely the new stuff can go faster",
+  "main": "soh.mjs",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {}
+}
